@@ -1,0 +1,57 @@
+# Copyright (C) 2023 nonelin
+# This file is distributed under the same license as the EZ Shortcode Content (EZSC) plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: EZ Shortcode Content (EZSC) 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ezsc\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-12T05:11:47+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: ezsc\n"
+
+#. Plugin Name of the plugin
+msgid "EZ Shortcode Content (EZSC)"
+msgstr ""
+
+#. Description of the plugin
+msgid "EZ Shortcode Content, referred to as \"EZSC\", use EZSC to create short code content and insert it into the article content to display customized content. Add the start and end time to the short code to achieve the function of regularly displaying hidden content.If no time is entered, it will always be displayed."
+msgstr ""
+
+#. Author of the plugin
+msgid "nonelin"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://dafatime.idv.tw"
+msgstr ""
+
+#: ez-shortcode-content.php:28
+msgid "EZSC"
+msgstr ""
+
+#: ez-shortcode-content.php:29
+#: ez-shortcode-content.php:30
+msgid "EZSC List"
+msgstr ""
+
+#: ez-shortcode-content.php:32
+#: ez-shortcode-content.php:33
+msgid "Add EZSC"
+msgstr ""
+
+#: ez-shortcode-content.php:115
+msgid "<p>Please provide EZSC ID, start time, and end time.</p>"
+msgstr ""
+
+#: ez-shortcode-content.php:123
+msgid "<p>The provided article ID is not an article of type \"ez_shortcode\".</p>"
+msgstr ""
+
+#: ez-shortcode-content.php:170
+msgid "Insert shortcode content"
+msgstr ""
